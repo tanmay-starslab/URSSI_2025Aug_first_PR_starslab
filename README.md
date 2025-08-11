@@ -11,6 +11,9 @@ whether it is the addition of new code, fixing bugs, or contributing to the docu
 For actual projects, please always consult their own contributing guides as some of the specific steps may differ from this very generic tutorial.
 
 For further read about some open-source contributing workflows see any of the following for scikit-learn, numpy, or a generic overview at Scientific Python:
+
 * [crash course in contributing to open source](https://sites.google.com/view/nyc-2020-scikit-sprint) material presented at a scikit-learn sprint,
 * [contributing to NumPy](https://numpy.org/contribute/) with [guides for code contributions](https://numpy.org/devdocs/dev/index.html#development-process-summary),
-* [Developer and Contributor Guides as Scientific Python](https://learn.scientific-python.org/))
+* [Developer and Contributor Guides as Scientific Python](https://learn.scientific-python.org/)
+
+And finally, to further your Git branching skills and to gain muscle memory, do make time to go through these tutorials: https://learngitbranching.js.org
