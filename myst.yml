@@ -6,7 +6,10 @@ project:
   subject: Collaboration on GitHub
   # description:
   # keywords: []
-  # authors: []
+  authors:
+    - name: Brigitta Sipőcz
+      affiliation: Caltech/IPAC
+      github: bsipocz
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:

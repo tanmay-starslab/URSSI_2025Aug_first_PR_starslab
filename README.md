@@ -3,10 +3,6 @@
 ### 2025 August 11
 #### URSSI Summer School 2025, Fairbanks, Alaska, USA
 
-#### [Brigitta Sipőcz](https://github.com/bsipocz/), Caltech/IPAC
-
-
-
 
 This tutorial focuses on the essential aspects of contributing to open-source, the GitHub pull request workflow.
 Many projects follow similar setups we cover, and expects contributions to their repositories in the form of pull requests,
