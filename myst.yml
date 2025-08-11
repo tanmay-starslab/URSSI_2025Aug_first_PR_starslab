@@ -10,6 +10,7 @@ project:
     - name: Brigitta Sipőcz
       affiliation: Caltech/IPAC
       github: bsipocz
+  date: 11 August 2025
   # github:
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
   toc:

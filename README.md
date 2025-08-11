@@ -1,6 +1,5 @@
 # Collaboration on GitHub: git for collaborative workflows
 
-### 2025 August 11
 #### URSSI Summer School 2025, Fairbanks, Alaska, USA
 
 
