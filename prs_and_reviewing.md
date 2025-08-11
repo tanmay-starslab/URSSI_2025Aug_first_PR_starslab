@@ -21,12 +21,16 @@ but note that the workflow will be similar for other platforms such as GitLab.
 
 ### Workflow guidelines
 
-For further read about open source contributing workflows see any of the following:
+For further read about open source contributing workflows:
+
+* [Developer Guides at Scientific Python](https://learn.scientific-python.org/development/),
+
+and some more project specific ones:
 
 * [crash course in contributing to open source](https://sites.google.com/view/nyc-2020-scikit-sprint) material presented at a scikit-learn sprint,
 * [contributing to NumPy](https://numpy.org/contribute/) with [guides for code contributions](https://numpy.org/devdocs/dev/index.html#development-process-summary),
-* [contributing to Pandas](https://pandas.pydata.org/docs/dev/development/contributing.html),
-* [Developer and Contributor Guides at Scientific Python](https://learn.scientific-python.org/)).
+* [contributing to Pandas](https://pandas.pydata.org/docs/dev/development/contributing.html).
+
 
 #### Writing good bug reports, reproducible examples, etc.
 
@@ -39,7 +43,10 @@ For further read about open source contributing workflows see any of the followi
 
 ### 1a: Fork the repository and set up the primary as remote
 
-The repository we will be opening pull requests to is at https://github.com/bsipocz/URSSI_2025Aug_first_PR
+The repository we will be opening pull requests to is at:
+
+https://github.com/bsipocz/URSSI_2025Aug_first_PR
+
 Since you don't have write access to this repository, the first step will be to make a "fork" of the repository.
 This is basically a copy of the primary repository, but one that you have complete control to modify as you see fit
 (and that is visible to everyone else on GitHub).  Make sure you are logged in to GitHub, then go to the
